@@ -14,9 +14,6 @@ instagram =
 
 
 
-You can get information such as HTTP Version, Server, Date, Content-Type, Transfer-Encoding, Vary, Expires, X-Frame-Options, Connection, P3P, Keep-Alive, X-DIS-Request-ID, Location, address, Cache-Control, etc.
-
-
 ![1](https://user-images.githubusercontent.com/83164596/119275970-5f19ab00-bc2d-11eb-8db1-dba9e3a3389c.PNG)
 
 
